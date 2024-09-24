@@ -20,6 +20,10 @@ export const ProjectCard = ({
   projectUrl,
 }: ProjectCardProps) => {
   const handleLinkClick = (e: React.MouseEvent) => {
+    if (!projectUrl) {
+      return
+    }
+    
     e.preventDefault()
     window.open(projectUrl, '_blank')
   }
