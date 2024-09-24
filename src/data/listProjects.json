@@ -1,0 +1,32 @@
+[
+    {
+      "altText": "Ricky and Morty",
+      "builtWith": "Next.js, React.js, Fontawesome, Material Ui, Typescript.",
+      "imageUrl": "rick-and-morty.png",
+      "projectDescription": "Listagem de personagens da série Ricky and Morty, com detalhes de cada personagem, podendo favoritar e desfavoritar personagens, além de poder pesquisar por nome e visualizar os personagens favoritos.",
+      "projectTitle": "Ricky and Morty",
+      "projectUrl": "https://challeger-rickandmorty.vercel.app/challenge"
+    },
+    {
+        "altText": "Easy Generator",
+        "builtWith": "Next.js, React.js, Typescript.",
+        "imageUrl": "easy-generator.png",
+        "projectDescription": "Gerador de ideias de modo carreira para o jogo FIFA, podendo gerar novos desafios e objetivos para o modo carreira do jogo.",
+        "projectTitle": "Easy Generator - Career FIFA",
+        "projectUrl": "https://generator-career-fifa.vercel.app/"
+    },
+    {
+      "altText": "Easy Doc",
+      "builtWith": "Next.js, React.js, Fontawesome, Material Ui, Typescript, Radix Ui / Node, Typescript, Express, Bcrypt, Jsonwebtoken, Mailjet, Swagger, Yup e Yalm.",
+      "imageUrl": "dashboard.png",
+      "projectDescription": "Sistema de gerenciamento para clinicas médicas, com cadastro de pacientes, consultas, anamneses, agendamentos entre outros.",
+      "projectTitle": "Easy Doc (🔨 Em desenvolvimento )"
+    },
+    {
+      "altText": "Deadlock Builds",
+      "builtWith": "Next.js, React.js, Framer Motion, Typescript.",
+      "imageUrl": "deadlock.png",
+      "projectDescription": "Projeto de criação de builds para o campeões do jogo Deadlock, com sistema de criação de miras.",
+      "projectTitle": "Deadlock Builds (🔨 Em desenvolvimento )"
+    }
+  ]
