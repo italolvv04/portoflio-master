@@ -17,7 +17,7 @@
     },
     {
       "altText": "Easy Doc",
-      "builtWith": "Next.js, React.js, Fontawesome, Material Ui, Typescript, Radix Ui / Node, Typescript, Express, Bcrypt, Jsonwebtoken, Mailjet, Swagger, Yup e Yaml.",
+      "builtWith": "Next.js, React.js, Fontawesome, Material Ui, Typescript, Radix Ui, Shadcn Ui / Node, Typescript, Express, Bcrypt, Jsonwebtoken, Mailjet, Swagger, Yup e Yaml.",
       "imageUrl": "dashboard.png",
       "projectDescription": "Sistema de gerenciamento para clinicas médicas, com cadastro de pacientes, consultas, anamneses, agendamentos entre outros.",
       "projectTitle": "Easy Doc (🔨 Em desenvolvimento )"
